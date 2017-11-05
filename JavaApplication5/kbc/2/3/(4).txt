@@ -1,0 +1,7 @@
+Q.When was the first Olympic Day celebrated?
+a 1896
+b 1924
+c 1948
+d 1984
+3
+c 1948

@@ -1,0 +1,7 @@
+Q.Among the following, which one is not a football club?
+a Monte Carlo
+b Arsenal
+c Aston Villa
+d Chelsea
+1
+a Monte Carlo

@@ -1,0 +1,7 @@
+Q.14 Which of the following city is a capital city Tamilnadu? 
+a Madhurai 
+b Coimbatore 
+c Sivakasi 
+d Chennai
+4
+d chennai

@@ -1,0 +1,7 @@
+Q.No. of players in a team of Water Polo is:
+a 8
+b 7
+c 6
+d 5
+2
+b 7

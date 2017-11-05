@@ -1,0 +1,7 @@
+Q The number of medals won by Indian in the 2010 Commonwealth Games-
+a 98
+b 101
+c 107
+d 115
+2
+b 101
