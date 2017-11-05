@@ -1,0 +1,7 @@
+Q.which of the following is small car brand of general moters? 
+a alto 
+b chevrolet 
+c spark
+d estilo
+3
+c spark

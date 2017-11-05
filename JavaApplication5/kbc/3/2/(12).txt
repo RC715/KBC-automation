@@ -1,0 +1,7 @@
+Q.On which date is Nobel Prize awarded? 
+a December 10
+b January 10
+c April 10 
+d July 10
+1
+a December 10

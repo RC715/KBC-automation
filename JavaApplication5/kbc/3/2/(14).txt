@@ -1,0 +1,7 @@
+Q.when was the zebra crossing introduced 
+a 1895 
+b 1951
+c 1965 
+d 1923
+2
+b 1951

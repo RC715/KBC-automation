@@ -1,0 +1,7 @@
+Q.the headquator of pepsico is located at 
+a purchase,newyork
+b atlanta,georgia 
+c miami,florida 
+d los vegas
+1
+a purchase,newyork

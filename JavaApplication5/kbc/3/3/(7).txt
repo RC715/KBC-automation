@@ -1,0 +1,7 @@
+Q.what is the currency of ENGLAND  
+a dollar 
+b Euro 
+c pound
+d rupee
+3
+c pound

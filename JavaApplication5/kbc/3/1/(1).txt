@@ -1,0 +1,7 @@
+Q.To which game is Davis Cup related?
+a Lawn Tennis
+b Hockey
+c Handball
+d Cricket
+1
+a Lawn Tennis
