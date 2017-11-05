@@ -1,7 +1,0 @@
-Q.in which year kolkata metro railway started 
-a 1999 
-b 2001 
-c 1984
-d 1997
-3
-c 1984
