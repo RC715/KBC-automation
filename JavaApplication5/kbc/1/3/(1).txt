@@ -1,0 +1,7 @@
+Q.How many languages and dialects are spoken by people all over the world? 
+a 6,000 
+b 9,000
+c 4,000 
+d 1,000
+2
+b 9,000

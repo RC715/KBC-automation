@@ -1,0 +1,7 @@
+Q.Where is the Vallabhbhai Patel stadium located? 
+a Kolkata 
+b Mumbai
+c Chennai 
+d Delhi
+2
+b Mumbai
