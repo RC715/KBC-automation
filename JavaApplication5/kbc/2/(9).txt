@@ -1,0 +1,7 @@
+Q.The committee of the Norwegian Parliament awards the prize for: 
+a Economics 
+b Peace
+c Medicine 
+d Literature
+2
+b Peace
